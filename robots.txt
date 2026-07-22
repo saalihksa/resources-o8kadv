@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saalihksa.github.io/resources-o8kadv/sitemap.xml
